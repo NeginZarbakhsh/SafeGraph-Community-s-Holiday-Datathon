@@ -19,3 +19,4 @@ According to the graph representation of same-brand visits, Walmart is probably 
 In 2020, there were fewer people in stores, so we were particularly interested to see how online shopping impacted the store traffic. There has been a significant increase in activities at Amazon's distribution centers from 2018 to 2020, which is likely an indication of an increase in employees. Because these centers were busier during Black Friday, we analyzed the demographic features of the visitors during a normal month (October) and Black Friday. The Census Track analysis shows that there were no significant changes in visitors' demographic characteristics.
 
 
+<img width="616" alt="Capture" src="https://user-images.githubusercontent.com/78085777/155414118-1eab5813-927c-4c6e-b09e-6301b30d665f.PNG">
